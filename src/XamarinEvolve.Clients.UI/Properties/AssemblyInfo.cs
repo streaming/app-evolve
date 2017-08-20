@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using Xamarin.Forms.Xaml;
 
 
-[assembly: XamlCompilation (XamlCompilationOptions.Compile)]
+//[assembly: XamlCompilation (XamlCompilationOptions.Compile)]
 
 [assembly: AssemblyTitle("XamarinEvolve")]
 [assembly: AssemblyDescription("Xamarin Evolve 2016 Mobile Application")]
